@@ -1,0 +1,15 @@
+{
+  "name": "zt-utilities",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": {
+    "url": "https://github.com/ZolutionTech/zt-utils.git",
+    "type": "git",
+    "directory": "src/zt-utilities"
+  },
+  "author": "Lucas Knudsen <laksteelhouse@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}

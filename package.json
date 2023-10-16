@@ -1,0 +1,9 @@
+{
+  "name": "zt-utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "A collection of utility functions for Zolution Tech projects.",
+  "repository": "https://github.com/ZolutionTech/zt-utils.git",
+  "author": "Lucas Knudsen <laksteelhouse@gmail.com>",
+  "license": "MIT"
+}
